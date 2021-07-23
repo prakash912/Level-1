@@ -3,7 +3,7 @@
 // 3. You are required to print the elements of array from beginning to end each in a separate line.
 // 4. For the above purpose complete the body of displayArr function. Don't change the signature.
 // Sample Input
-// 5
+// 5   no of input
 // 3
 // 1
 // 0
